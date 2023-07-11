@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a software engineering student<br>🌱 I’m currently learning : AI | React<br>💬 Ask me about : Linux , Web , C , Problem solving , ...<br>⚡ Fun fact : i embrace the pinguin power penguin
+🔭 I’m currently a software engineering student<br>🌱 I’m currently learning : AI | React<br>💬 Ask me about : Linux , Web , C , Problem solving , ...<br>⚡ Fun fact : i embrace the pinguin power 🐧
 
 
 ## 🌐 Socials:
